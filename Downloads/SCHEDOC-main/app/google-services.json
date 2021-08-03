@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347359716425",
+    "firebase_url": "https://drapp-bd7c2-default-rtdb.firebaseio.com",
+    "project_id": "drapp-bd7c2",
+    "storage_bucket": "drapp-bd7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347359716425:android:a2edbfdd80366e20dc4b98",
+        "android_client_info": {
+          "package_name": "com.example.drapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347359716425-ilf6v5fuko6kh5b10re2eerjhed6vffl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drapp",
+            "certificate_hash": "a497025bec75a449a8a6940ef57e9b2ad4f1fb08"
+          }
+        },
+        {
+          "client_id": "347359716425-j6jue60v6njovaisjsqfmrebr9933qkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBfsBRvk5HbgPFw83Zl4Rap-EK3FXNyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347359716425-j6jue60v6njovaisjsqfmrebr9933qkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
